@@ -12,3 +12,5 @@ This app is using dependency injection, repository pattern and jetpack component
 ## Contributing
 
 Feel free to colabore with me on the app's source code!
+
+Credit to [https://github.com/abdurahmanadilovic/podcast-guru](https://github.com/abdurahmanadilovic/podcast-guru)
